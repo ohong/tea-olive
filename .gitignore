@@ -3,3 +3,10 @@ node_modules/
 
 # Yarn
 yarn.lock
+# Local env files – never commit
+.env*
+!.env.example
+
+# Next.js build output
+.next/
+out/

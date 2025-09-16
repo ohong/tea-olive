@@ -1,0 +1,5 @@
+{
+  "/api/hashbrown/[provider]/route": "app/api/hashbrown/[provider]/route.js",
+  "/api/check/route": "app/api/check/route.js",
+  "/page": "app/page.js"
+}
